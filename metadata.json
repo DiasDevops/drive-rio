@@ -1,0 +1,8 @@
+{
+  "name": "Remix Rio Express Travel",
+  "description": "Aplicativo oficial de viagens e transporte no Rio de Janeiro com motoristas credenciados, descontos em pontos turísticos e chat direto na plataforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
